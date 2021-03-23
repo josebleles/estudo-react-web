@@ -1,0 +1,28 @@
+{
+  "name": "estudo-react-web",
+  "version": "1.0.0",
+  "description": "Fiap Andares",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "three": "^0.126.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose-leles/estudo-react-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jose-leles/estudo-react-web/issues"
+  },
+  "homepage": "https://github.com/jose-leles/estudo-react-web#readme"
+}
