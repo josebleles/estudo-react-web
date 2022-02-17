@@ -4,7 +4,7 @@
   "description": "Fiap Andares",
   "main": "index.js",
   "dependencies": {
-    "next": "^10.0.9",
+    "next": "^12.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "three": "^0.126.1"
